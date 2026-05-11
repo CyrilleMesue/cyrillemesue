@@ -84,16 +84,6 @@ I am currently completing an M.Sc. in Molecular Biology and Genetics at Istanbul
 
 ---
 
-<details>
-  <summary>📊 GitHub Stats</summary>
+---------------------------------------------------------------------------------------------------- 
+<details> <summary>:zap: GitHub Stats</summary> <img align="left" alt="Cyrille's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cyrillemesue&show_icons=true&hide_border=true" /> </details> <details> <summary>:zap: Most Used Languages</summary> <img align="left" alt="Cyrille's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyrillemesue" /> </details>
 
-  <img align="left" alt="Cyrille's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CyrilleMesue&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>💻 Most Used Languages</summary>
-
-  <img align="left" alt="Cyrille's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyrilleMesue&layout=compact" />
-
-</details>
