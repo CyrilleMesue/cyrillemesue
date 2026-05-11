@@ -1,61 +1,99 @@
-### Hello World, I'm Cyrille 👋
-I am a motivated Bioengineering graduate with a solid foundation in bioinformatics research. Dedicated to pushing the boundaries of biomedical research, specializing in cancer biology, genomics, and transcriptomics. Demonstrated commitment to academic excellence and a research-driven mindset. Enthusiastic scientist eager to contribute to team success through hard work, employing excellent critical thinking and aiming to utilize machine learning, deep learning, bioinformatics, and Systems Biology to make a positive impact in global healthcare. Enjoys gathering, organizing, and analyzing data, building machine learning solutions, and contributing to project strategies.
-    
+# Hello World, I'm Cyrille 👋
 
-:mailbox: Reach me out!    
+Computational biologist specializing in AI-driven genomics, multi-omics integration, and translational bioinformatics. My research focuses on developing interpretable machine learning frameworks for biomarker discovery, disease modeling, and computational analysis of complex biological systems.
 
-[![Linkedin Badge](https://img.shields.io/badge/-@CyrilleMesueNJUME-929292?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyrille-mesue-njume-3a448a184/) [![Mail Badge](https://img.shields.io/badge/-cyrillemesue@gmail.com-d27f7a?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:cyrillemesue@gmail.com) [![Mail Badge](https://img.shields.io/badge/-@CyrilleMesue-4a2019?style=flat&labelColor=010203&logo=medium&logoColor=white)](https://medium.com/@cyrillemesue) 
+I am currently completing an M.Sc. in Molecular Biology and Genetics at Istanbul Technical University, where I work on ensemble-based multi-omics biomarker discovery and explainable AI approaches for disease research. My work combines machine learning, computational genomics, transcriptomics, epigenomics, and systems biology to uncover biologically meaningful and clinically relevant patterns from high-dimensional datasets.
 
+---
 
--  ✍ I’m currently working on using machine learning for computational drug discovery and metabolic analysis of diseases
-- 🌱 I’m currently learning systems biology and bioinformatics: Taking courses and reading books
-- 👯 I’m looking to collaborate on github, linkedin
-- 🤔 I’m looking for help with finding Data science, bioinformatics/computational biology/systems biology internships or jobs(open to virtual and remote options)
-- 💬 Ask me about data, machine learning or any biology or bioinformatics related stuff
-- 😄 Pronouns: He/Coder/data scientist/systems biologist/machine learning engineer
+## 🔬 Research Interests
 
+* Interpretable AI for biomedical research
+* Multi-omics data integration
+* Computational genomics and transcriptomics
+* Biomarker discovery and disease modeling
+* Reproducible bioinformatics workflows
+* Machine learning for translational medicine
 
-### Languages and Tools:
+---
 
-[![Javascript Badge](https://img.shields.io/badge/-Python3-797979?style=for-the-badge&labelColor=white&logo=python&logoColor=2497ff)](#)
-[![Javascript Badge](https://img.shields.io/badge/-MATLAB-797979?style=for-the-badge&labelColor=white&logo=octave&logoColor=2497ff)](#)
-[![Javascript Badge](https://img.shields.io/badge/-MS_Excel-797979?style=for-the-badge&labelColor=white&logo=microsoft&logoColor=9aff24)](#)
-[![Javascript Badge](https://img.shields.io/badge/-r_programming-797979?style=for-the-badge&labelColor=white&logo=rstudio&logoColor=ff9c24)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Github-797979?style=for-the-badge&labelColor=white&logo=github&logoColor=000000)](#)
-[![Javascript Badge](https://img.shields.io/badge/-terminal-797979?style=for-the-badge&labelColor=white&logo=linux&logoColor=000000)](#)   
-[![Javascript Badge](https://img.shields.io/badge/-COLAB-797979?style=for-the-badge&labelColor=white&logo=googlecolab&logoColor=F0DB4F)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-797979?style=for-the-badge&labelColor=yellow&logo=javascript&logoColor=black)](#)
-[![Javascript Badge](https://img.shields.io/badge/-CSS-797979?style=for-the-badge&labelColor=white&logo=css3&logoColor=2497ff)](#)
-[![Javascript Badge](https://img.shields.io/badge/-HTML-797979?style=for-the-badge&labelColor=white&logo=html5&logoColor=ff9c24)](#)    
-  
-## Latest Blog Posts    
-* [How to Learn Machine Learning and Deep Learning in Less than a Year, with Little to no Programming Background](https://cyrillemesue.github.io/how-to-learn-machine-learning-and-deep-learning/)
-* [How to Apply for Financial Aid for a Coursera Course, Specialization or Professional Certificate](https://cyrillemesue.github.io/applying-for-coursera-financial-aid/)  
+## 🚀 Current Research & Projects
 
+* Ensemble-based multi-omics biomarker discovery in Alzheimer’s disease
+* Benchmarking deep learning and ensemble methods for biomarker discovery
+* Variant calling workflow benchmarking for whole-exome sequencing
+* Graph neural network applications for metabolomics-based disease analysis
+* RNA-seq and integrative omics analysis pipelines
+* AI-driven genomics approaches for disease modeling and translational research
 
-## Currently Learning
-* [Python Developer Zero to Mastery]([http://rosalind.info/problems/list-view/](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/learn/lecture/16138371?start=0#overview))
-* [Systems Biology and Biotechnology Course on Coursera](https://www.coursera.org/specializations/systems-biology)   
-* [Genomic Datascience course on Coursera](https://www.coursera.org/specializations/genomic-data-science)
+---
 
+## 📚 Selected Publications
 
-## Currently Reading 
-* Computational Systems Biology of cancer by Barillot, Emmanuel 
+* **When Complexity Doesn’t Pay: Benchmarking Deep Learning and Ensemble Methods for Biomarker Discovery**
+  *Briefings in Bioinformatics* (Accepted/In Press)
 
-----------------------------------------------------------------------------------------------------
+* **BioMark: Biomarker Analysis Tool**
+  *BMC Bioinformatics*
+
+* **Exploring the Role of microRNAs as Blood Biomarkers in Alzheimer’s Disease and Frontotemporal Dementia**
+  *International Journal of Molecular Sciences*
+
+---
+
+## 🛠 Languages & Tools
+
+### Programming & Data Science
+
+![Python](https://img.shields.io/badge/-Python-797979?style=for-the-badge\&labelColor=white\&logo=python\&logoColor=3776AB)
+![R](https://img.shields.io/badge/-R-797979?style=for-the-badge\&labelColor=white\&logo=r\&logoColor=276DC3)
+![Bash](https://img.shields.io/badge/-Bash-797979?style=for-the-badge\&labelColor=white\&logo=gnubash\&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-797979?style=for-the-badge\&labelColor=white\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-797979?style=for-the-badge\&labelColor=white\&logo=github\&logoColor=black)
+
+### Machine Learning & AI
+
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-797979?style=for-the-badge\&labelColor=white\&logo=scikitlearn\&logoColor=F7931E)
+![PyTorch](https://img.shields.io/badge/-PyTorch-797979?style=for-the-badge\&labelColor=white\&logo=pytorch\&logoColor=EE4C2C)
+![XGBoost](https://img.shields.io/badge/-XGBoost-797979?style=for-the-badge\&labelColor=white\&logo=python\&logoColor=3776AB)
+![CatBoost](https://img.shields.io/badge/-CatBoost-797979?style=for-the-badge\&labelColor=white\&logo=python\&logoColor=3776AB)
+
+### Bioinformatics & Infrastructure
+
+![Docker](https://img.shields.io/badge/-Docker-797979?style=for-the-badge\&labelColor=white\&logo=docker\&logoColor=2496ED)
+![Nextflow](https://img.shields.io/badge/-Nextflow-797979?style=for-the-badge\&labelColor=white\&logo=nextflow\&logoColor=23AA62)
+![AWS](https://img.shields.io/badge/-AWS-797979?style=for-the-badge\&labelColor=white\&logo=amazonaws\&logoColor=FF9900)
+![Linux](https://img.shields.io/badge/-Linux-797979?style=for-the-badge\&labelColor=white\&logo=linux\&logoColor=black)
+
+---
+
+## 🌍 Academic & Community Engagement
+
+* Founder of **La Grande Dieta**, an educational platform supporting students interested in science, technology, and international education opportunities.
+* Creator of the **Education Is Always The Future** newsletter.
+* Community member at the **African Bioinformatics Institute (ABI)**.
+* Mentoring students interested in computational biology, AI, and bioinformatics research.
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/cyrillenjume)
+[![Website](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge\&logo=About.me\&logoColor=white)](https://cnjumebioinf.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:cyrillemesue@gmail.com)
+
+---
+
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>📊 GitHub Stats</summary>
 
-  <img align="left" alt="Cyrille's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cyrillemesue&show_icons=true&hide_border=true" />
+  <img align="left" alt="Cyrille's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CyrilleMesue&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <summary>💻 Most Used Languages</summary>
 
-<img align="left" alt="Cyrille's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyrillemesue" />
+  <img align="left" alt="Cyrille's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyrilleMesue&layout=compact" />
 
 </details>
-
-
-
