@@ -81,9 +81,3 @@ I am currently completing an M.Sc. in Molecular Biology and Genetics at Istanbul
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/cyrillenjume)
 [![Website](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge\&logo=About.me\&logoColor=white)](https://cnjumebioinf.com)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:cyrillemesue@gmail.com)
-
----
-
----------------------------------------------------------------------------------------------------- 
-<details> <summary>:zap: GitHub Stats</summary> <img align="left" alt="Cyrille's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cyrillemesue&show_icons=true&hide_border=true" /> </details> <details> <summary>:zap: Most Used Languages</summary> <img align="left" alt="Cyrille's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyrillemesue" /> </details>
-
